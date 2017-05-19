@@ -1,0 +1,1 @@
+Test projects used in the making of [this tweet](https://twitter.com/kent_boogaart/status/848055170525085696?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Fforums.xamarin.com%2Fdiscussion%2F93178%2Flets-talk-performance%2Fp3).
